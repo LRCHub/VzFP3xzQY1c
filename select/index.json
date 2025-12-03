@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "My self",
+  "base_artist": "O.A.KLAY",
+  "createdAt": "2025-12-03T13:43:11.113048Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lose My Self",
+      "artist": "The Duke & The King",
+      "has_synced": true,
+      "path": "select/01_Lose_My_Self_The_Duke_&_The_King.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "All By My Self",
+      "artist": "Tom Jones",
+      "has_synced": false,
+      "path": "select/02_All_By_My_Self_Tom_Jones.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "H8 MY SELF",
+      "artist": "Escape the Fate",
+      "has_synced": true,
+      "path": "select/03_H8_MY_SELF_Escape_the_Fate.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dancing With My Self",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/04_Dancing_With_My_Self_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "H8 MY SELF",
+      "artist": "Escape the Fate",
+      "has_synced": true,
+      "path": "select/05_H8_MY_SELF_Escape_the_Fate.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "OneRepublic - If I Lose My self",
+      "artist": "OneRepublic",
+      "has_synced": true,
+      "path": "select/06_OneRepublic_-_If_I_Lose_My_self_OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Think I'm Going To Kill My Self",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/07_I_Think_I'm_Going_To_Kill_My_Self_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "To Let My Self Go",
+      "artist": "The Avener",
+      "has_synced": true,
+      "path": "select/08_To_Let_My_Self_Go_The_Avener.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My-Self",
+      "artist": "Girls Rituals",
+      "has_synced": false,
+      "path": "select/09_My-Self_Girls_Rituals.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cut My Self in Two",
+      "artist": "Black Drawing Chalks",
+      "has_synced": true,
+      "path": "select/10_Cut_My_Self_in_Two_Black_Drawing_Chalks.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "My Self Control",
+      "artist": "Channel Zero",
+      "has_synced": true,
+      "path": "select/11_My_Self_Control_Channel_Zero.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Just Abandoned My‐Self",
+      "artist": "Boris",
+      "has_synced": false,
+      "path": "select/12_Just_Abandoned_My‐Self_Boris.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "KILL MY SELF, I tried",
+      "artist": "4s4ki",
+      "has_synced": true,
+      "path": "select/13_KILL_MY_SELF,_I_tried_4s4ki.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "H8 MY SELF",
+      "artist": "Escape the Fate",
+      "has_synced": true,
+      "path": "select/14_H8_MY_SELF_Escape_the_Fate.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "My Self In My Heart",
+      "artist": "Kwak Jin Eon",
+      "has_synced": true,
+      "path": "select/15_My_Self_In_My_Heart_Kwak_Jin_Eon.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Cry My Self To Sleep",
+      "artist": "Del Shannon",
+      "has_synced": true,
+      "path": "select/16_Cry_My_Self_To_Sleep_Del_Shannon.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "In The Fires Of My Self-Made Hell",
+      "artist": "Burning Point",
+      "has_synced": true,
+      "path": "select/17_In_The_Fires_Of_My_Self-Made_Hell_Burning_Point.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "My Self In My Heart",
+      "artist": "Kwak Jin Eon",
+      "has_synced": true,
+      "path": "select/18_My_Self_In_My_Heart_Kwak_Jin_Eon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "My self (feat. Memento Mori)",
+      "artist": "O.A.KLAY",
+      "has_synced": false,
+      "path": "select/pl_01_My_self_(feat._Memento_Mori)_O.A.KLAY.txt"
+    }
+  ]
+}
